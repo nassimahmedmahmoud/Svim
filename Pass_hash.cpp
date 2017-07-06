@@ -13,7 +13,7 @@ bool is_number(const std::string& s)
 int main(int argc, char ** argv){
 
         if(argc < 3){
-                cout << "Usage : password.x URL pw [ NB ]" << endl;
+                cout << "Usage : password.x URL PW [ NB ]" << endl;
                 return 1;
         }
 
