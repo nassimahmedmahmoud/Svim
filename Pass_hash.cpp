@@ -108,7 +108,7 @@ string add_capital(string word){
 int main(int argc, char ** argv){
 
         if(argc < 3){
-                cout << "Usage : password.x URL pw [ NB ]" << endl;
+                cout << "Usage : password.x URL PW [ NB ]" << endl;
                 return 1;
         }
 
